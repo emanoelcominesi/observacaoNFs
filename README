@@ -1,0 +1,10 @@
+Nesse exercício você está recebendo uma base de código que não segue boas práticas de codificação, e o intuito do exercício é realizar a refatoração desse código para que dentro dos seus critérios ele se torne um código melhor e de mais fácil manutenção do futuro.
+
+Informações importantes:
+- Para facilitar o exercício já foi adicionado uma cobertura de testes no código;
+- Sinta-se livre para mudar todo o código, criar novas classes, pacotes ou o que for necessário;
+
+Dicas/sugestões:
+- Valorizamos um código bem escrito que seja manutenível, legível e expansível. Então, busque não só gerar um código limpo como também algo simples e de fácil manutenção. E ao mesmo tempo possível de evoluir com novos requisitos que possam surgir, e sem complexidade desnecessária;
+- Entendemos que princípios como: SOLID, DRY, YAGNI são boas práticas e podem ser aplicados nesse exercício;
+- Também vemos conceitos como Arquitetura Hexagonal, Clean Architecture e DDD como boas práticas e também podem ter tido como bases para a refatoração.
